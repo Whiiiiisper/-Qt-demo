@@ -1,0 +1,22 @@
+#multiStateButton {
+    min-width: 32px; min-height: 32px;
+    max-width: 32px; max-height: 32px;
+}
+#multiStateButton::indicator {
+    width: 32px; height: 32px;
+}
+#multiStateButton::indicator:unchecked {
+    background: url(:/resource/circle_play.png);
+}
+#multiStateButton::indicator:checked {
+    background: url(:/resource/circle_pause.png);
+}
+
+#stopButton {
+    min-width: 32px; min-height: 32px;
+    max-width: 32px; max-height: 32px;
+    background: url(:/resource/circle_stop.png);
+    border: none;
+}
+
+* { lineedit-password-character: 42 }

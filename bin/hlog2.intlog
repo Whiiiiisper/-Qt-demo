@@ -1,0 +1,36 @@
+[ 07/21/21 13:53:36 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 13:53:36 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 13:53:39 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 13:53:39 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 14:16:46 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 14:16:46 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 14:16:49 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 14:16:49 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 14:51:18 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 14:51:18 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 14:51:21 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 14:51:21 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 15:05:58 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 15:05:58 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 15:06:31 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 15:06:31 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 15:06:34 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 15:06:34 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 15:11:15 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 15:11:15 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 15:11:18 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 15:11:18 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 22:58:15 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 22:58:15 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/21/21 22:58:18 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/21/21 22:58:18 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/22/21 20:23:04 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/22/21 20:23:04 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/22/21 20:23:07 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/22/21 20:23:07 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 07/22/21 21:12:29 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 07/22/21 21:12:29 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 02/23/23 16:09:37 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 02/23/23 16:09:37 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".
+[ 02/23/23 16:09:40 ..\src\main\cpp\optionconverter.cpp 312 ] Could not find value for key log4j.appender.stdout
+[ 02/23/23 16:09:40 ..\src\main\cpp\propertyconfigurator.cpp 407 ] Could not instantiate appender named "stdout".

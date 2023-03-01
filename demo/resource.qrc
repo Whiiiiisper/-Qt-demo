@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/style.css</file>
+        <file>resource/circle_pause.png</file>
+        <file>resource/circle_play.png</file>
+        <file>resource/circle_stop.png</file>
+    </qresource>
+    <qresource prefix="/language">
+        <file>EzvizQtDemo_zh.qm</file>
+    </qresource>
+</RCC>
